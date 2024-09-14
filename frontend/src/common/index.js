@@ -1,4 +1,5 @@
-const backendDomin = "http://localhost:8080"
+// const backendDomin = "http://localhost:8080"
+const backendDomin= "https://santosh-electronics-backend.onrender.com"
 
 const SummaryApi = {
     signUP : {
